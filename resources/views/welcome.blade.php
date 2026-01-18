@@ -233,10 +233,7 @@
     <section class="cta-section">
         <div class="container text-center">
             <h2 class="fw-bold mb-3">Ready to get started?</h2>
-            <p class="text-muted mb-4">Join teams using WikiTeqrious to organize their knowledge.</p>
-            <a href="{{ route('register') }}" class="btn btn-primary btn-lg px-5">
-                Create your free workspace
-            </a>
+            <p class="text-muted mb-4">Join teams using WikiTeqrious to organize their knowledge.</p>           
         </div>
     </section>
 
